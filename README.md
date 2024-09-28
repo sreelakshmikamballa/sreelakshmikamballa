@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me sreelakshmikamballa@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: im a lil bit dumb in coding 
+- ⚡ Fun fact: my brain is not braining 
 
 <!---
 sreelakshmikamballa/sreelakshmikamballa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
